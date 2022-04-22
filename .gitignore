@@ -5,3 +5,4 @@ spring-data-heimdallr-test/target/
 spring-data-heimdallr-parent.iml
 spring-data-heimdallr/spring-data-heimdallr.iml
 spring-data-heimdallr-test/spring-data-heimdallr-test.iml
+target/
