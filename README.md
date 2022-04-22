@@ -1,4 +1,10 @@
 # Spring-data-Jpa的增强插件
+通过maven引入插件
+```xml
+  <artifactId>spring-data-heimdallr-parent</artifactId>
+  <groupId>io.github.guoyixing</groupId>
+  <version>0.2</version>
+```
 
 ## 一、功能
 ### 1、查询的时候根据用户的权限（或者指定安全等级）自动过滤数据
