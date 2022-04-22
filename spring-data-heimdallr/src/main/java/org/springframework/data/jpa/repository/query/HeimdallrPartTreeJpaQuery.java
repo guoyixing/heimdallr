@@ -1,7 +1,7 @@
 package org.springframework.data.jpa.repository.query;
 
-import com.github.guoyixing.heimdallr.support.SecurityLevelField;
-import com.github.guoyixing.heimdallr.support.SecurityLevelManager;
+import io.github.guoyixing.heimdallr.support.SecurityLevelField;
+import io.github.guoyixing.heimdallr.support.SecurityLevelManager;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.repository.query.ResultProcessor;
 import org.springframework.data.repository.query.ReturnedType;

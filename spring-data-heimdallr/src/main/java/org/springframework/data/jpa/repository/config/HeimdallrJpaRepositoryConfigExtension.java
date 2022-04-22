@@ -1,8 +1,8 @@
 package org.springframework.data.jpa.repository.config;
 
-import com.github.guoyixing.heimdallr.support.DefaultPermissionGetter;
-import com.github.guoyixing.heimdallr.support.PermissionGetter;
-import com.github.guoyixing.heimdallr.support.SecurityLevelManager;
+import io.github.guoyixing.heimdallr.support.DefaultPermissionGetter;
+import io.github.guoyixing.heimdallr.support.PermissionGetter;
+import io.github.guoyixing.heimdallr.support.SecurityLevelManager;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.springframework.beans.factory.config.BeanDefinition;

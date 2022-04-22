@@ -1,4 +1,4 @@
-package com.github.guoyixing;
+package io.github.guoyixing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

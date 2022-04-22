@@ -1,7 +1,7 @@
-package com.github.guoyixing.heimdallr.strategy;
+package io.github.guoyixing.heimdallr.strategy;
 
-import com.github.guoyixing.heimdallr.support.SecurityLevelField;
-import com.github.guoyixing.heimdallr.support.SecurityLevelManager;
+import io.github.guoyixing.heimdallr.support.SecurityLevelField;
+import io.github.guoyixing.heimdallr.support.SecurityLevelManager;
 import org.springframework.data.jpa.domain.Specification;
 
 import javax.persistence.criteria.CriteriaBuilder;

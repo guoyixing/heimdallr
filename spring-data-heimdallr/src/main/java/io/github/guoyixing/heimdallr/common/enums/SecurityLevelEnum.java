@@ -1,4 +1,4 @@
-package com.github.guoyixing.heimdallr.common.enums;
+package io.github.guoyixing.heimdallr.common.enums;
 
 import org.springframework.util.StringUtils;
 

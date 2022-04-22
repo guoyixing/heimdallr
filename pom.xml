@@ -10,16 +10,17 @@
             <version>2.6.5</version>
     </parent>
 
-    <groupId>com.github.guoyixing</groupId>
+    <groupId>io.github.guoyixing</groupId>
     <artifactId>spring-data-heimdallr-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.1</version>
+    <version>${project.version}</version>
     <modules>
         <module>spring-data-heimdallr</module>
         <module>spring-data-heimdallr-test</module>
     </modules>
 
     <properties>
+        <project.version>0.2</project.version>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>

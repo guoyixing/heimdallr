@@ -1,6 +1,6 @@
-package com.github.guoyixing.test.dao;
+package io.github.guoyixing.test.dao;
 
-import com.github.guoyixing.test.entity.Student;
+import io.github.guoyixing.test.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;

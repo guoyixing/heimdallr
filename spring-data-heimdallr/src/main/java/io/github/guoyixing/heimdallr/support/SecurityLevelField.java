@@ -1,4 +1,4 @@
-package com.github.guoyixing.heimdallr.support;
+package io.github.guoyixing.heimdallr.support;
 
 
 import lombok.Getter;

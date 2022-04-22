@@ -1,7 +1,7 @@
-package com.github.guoyixing.test.entity;
+package io.github.guoyixing.test.entity;
 
-import com.github.guoyixing.heimdallr.common.enums.SecurityLevelEnum;
-import com.github.guoyixing.heimdallr.support.SecurityLevel;
+import io.github.guoyixing.heimdallr.common.enums.SecurityLevelEnum;
+import io.github.guoyixing.heimdallr.support.SecurityLevel;
 
 import javax.persistence.*;
 

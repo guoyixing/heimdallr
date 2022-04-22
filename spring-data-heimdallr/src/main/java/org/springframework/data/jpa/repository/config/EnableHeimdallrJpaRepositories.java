@@ -15,7 +15,7 @@
  */
 package org.springframework.data.jpa.repository.config;
 
-import com.github.guoyixing.heimdallr.support.DefaultPermissionGetter;
+import io.github.guoyixing.heimdallr.support.DefaultPermissionGetter;
 import org.springframework.context.annotation.ComponentScan.Filter;
 import org.springframework.context.annotation.Import;
 import org.springframework.data.jpa.repository.support.HeimdallrJpaRepositoryFactoryBean;

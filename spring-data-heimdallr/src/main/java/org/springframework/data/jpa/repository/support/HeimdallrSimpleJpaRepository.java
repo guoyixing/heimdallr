@@ -1,7 +1,7 @@
 package org.springframework.data.jpa.repository.support;
 
-import com.github.guoyixing.heimdallr.strategy.SecurityLevelSpecification;
-import com.github.guoyixing.heimdallr.support.SecurityLevelManager;
+import io.github.guoyixing.heimdallr.strategy.SecurityLevelSpecification;
+import io.github.guoyixing.heimdallr.support.SecurityLevelManager;
 import org.springframework.data.domain.*;
 import org.springframework.data.jpa.convert.QueryByExamplePredicateBuilder;
 import org.springframework.data.jpa.domain.Specification;

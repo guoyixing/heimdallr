@@ -1,6 +1,6 @@
-package com.github.guoyixing.heimdallr.support;
+package io.github.guoyixing.heimdallr.support;
 
-import com.github.guoyixing.heimdallr.common.enums.SecurityLevelEnum;
+import io.github.guoyixing.heimdallr.common.enums.SecurityLevelEnum;
 
 /**
  * @author 敲代码的旺财
