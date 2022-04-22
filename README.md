@@ -1,8 +1,8 @@
 # Spring-data-Jpa的增强插件
 通过maven引入插件
 ```xml
-  <artifactId>spring-data-heimdallr-parent</artifactId>
   <groupId>io.github.guoyixing</groupId>
+  <artifactId>spring-data-heimdallr-parent</artifactId>
   <version>0.2</version>
 ```
 
