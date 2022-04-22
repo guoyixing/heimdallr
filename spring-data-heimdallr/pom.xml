@@ -5,7 +5,7 @@
     <parent>
         <artifactId>spring-data-heimdallr-parent</artifactId>
         <groupId>com.github.guoyixing</groupId>
-        <version>0.1-SNAPSHOT</version>
+        <version>0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -14,7 +14,6 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <eclipselink>3.0.2</eclipselink>
     </properties>
 
     <dependencies>

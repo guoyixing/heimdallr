@@ -5,7 +5,7 @@
     <parent>
         <artifactId>spring-data-heimdallr-parent</artifactId>
         <groupId>com.github.guoyixing</groupId>
-        <version>0.1-SNAPSHOT</version>
+        <version>0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.guoyixing</groupId>
             <artifactId>spring-data-heimdallr</artifactId>
-            <version>0.1-SNAPSHOT</version>
+            <version>0.2</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
